@@ -3,7 +3,7 @@
 I'm Marc, a Software Developer from Mallorca, Spain. :sunny:
 
 I'm currently working at [Scrapinghub](https://www.scrapinghub.com/) as a Python Developer and I'm the maintainer of the [dateparser](https://github.com/scrapinghub/dateparser) library. You will see that I also spend some time contributing to other Open Source projects as 
-[Scrapy](https://github.com/scrapy/scrapy/pulls?q=author%3Anoviluni), [number-parsser](https://github.com/arnavkapoor/number-parser/issues?q=author%3Anoviluni+) and other libraries.
+[Scrapy](https://github.com/scrapy/scrapy/pulls?q=author%3Anoviluni), [number-parser](https://github.com/arnavkapoor/number-parser/issues?q=author%3Anoviluni+) and other libraries.
 
 <!--
 To see some of my contributions you can check the next list:
