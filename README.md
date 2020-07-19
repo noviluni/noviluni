@@ -46,7 +46,7 @@ To see some of my contributions you can check the next list:
 -->
 
 
-📫 If you want to contact me feel free to open an issue to my [personal repo](https://github.com/noviluni/noviluni) indacating what do you want and how to contact with you (without adding any sensitive data :smile:).
+📫 If you want to contact me feel free to open an issue to my [personal repo](https://github.com/noviluni/noviluni) indicating what do you want and how to contact with you (without adding any sensitive data :smile:).
 
 
 
